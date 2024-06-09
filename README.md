@@ -5,7 +5,6 @@ I'm interested in the area of parsers, compilers, and good optimized code in any
 
 ## Projects
 * [UCFS](https://github.com/FormalLanguageConstrainedPathQuerying/UCFS/tree/cf_solver) - my current project as part of an internship at a St. Petersburg research center in Python IDE team. My part of the UCF solver is to implement an API parser generator for use in programming language development and tooling.
-* [Bots]() - a few simple telegram bots written on Kotlin using coroutines.
 * [ssql](https://github.com/bachisheo/ssql) - prototype tool for static validation of SQL query. Allows semantic and syntactic validation of raw queries in python code.
 
 ## Skills & languages
